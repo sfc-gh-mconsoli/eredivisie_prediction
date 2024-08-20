@@ -12,7 +12,7 @@
 4. **Prediction**: Predict who is going to win Eredivisie 2024/2025
 
 ---
-## Step 0: Pre Reqs: DB Objects
+## Step 0: Create DB Objects via Setup Script
 
 Run the `setup.sql` script to create db objects and external access integration.
 
