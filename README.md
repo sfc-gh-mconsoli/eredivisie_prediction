@@ -15,11 +15,11 @@
 
 ## Pre-Reqs
 
-### Create DB Objects via Setup Script
+### 1. Create DB Objects via Setup Script
 
 Run the `setup.sql` script to create db objects and external access integration.
 
-### Import Notebooks
+### 2. Import Notebooks (In progress)
 
 Dear HOL Participants,
 We kindly recommend importing the notebook after September 29th, when the final version will be released.
