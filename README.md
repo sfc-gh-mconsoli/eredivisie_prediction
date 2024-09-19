@@ -12,12 +12,18 @@
 4. **Prediction**: Predict who is going to win Eredivisie 2024/2025
 
 ---
-## Step 0: Create DB Objects via Setup Script
+
+## Pre-Reqs
+
+### Create DB Objects via Setup Script
 
 Run the `setup.sql` script to create db objects and external access integration.
 
-## Step 1: Data Ingestion
+### Import Notebooks
 
-Welcome to the **Eredivisie Prediction**! In this notebook, we will use Python functions and External Access Integration to load and analyze data about Eredivisie from 1995 to 2023. Our data source is a GitHub repository, from which we'll fetch and directly store historical data in our Snowflake account. No S3 buckets or local downloads are needed — our goal is to simplify the execution of this Hands-On Lab (HOL) while showcasing the extensive capabilities of Snowflake!
+Dear HOL Participants,
+We kindly recommend importing the notebook after September 29th, when the final version will be released.
 
+More information will be provided in this README.md file once the final notebooks are uploaded to this GitHub repository.
+Thank you for your understanding!
 
