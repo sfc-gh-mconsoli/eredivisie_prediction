@@ -21,8 +21,8 @@ Run the `setup.sql` script to create db objects and external access integration.
 
 ### 2. Import Notebooks (In progress)
 
-Dear HOL Participants,
-We kindly recommend importing the notebook after September 29th, when the final version will be released.
+⚠️ Dear HOL Participants,
+We kindly recommend importing the notebook after 29th September 2024, when the final version will be released.
 
 More information will be provided in this README.md file once the final notebooks are uploaded to this GitHub repository.
 Thank you for your understanding!
