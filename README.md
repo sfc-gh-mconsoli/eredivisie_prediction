@@ -1,3 +1,11 @@
+⚠️⚠️⚠️ **Dear HOL Participants,
+We kindly recommend running Pre-Reqs after 29th September 2024, when the final version will be released on this repo.** 
+
+More information will be provided in this README.md file once the final notebooks and datasets are uploaded to this GitHub repository.
+Thank you for your understanding!
+
+---
+
 # ⚽ **HOL: Eredivisie Prediction** 🥇
 
 **SWT - Amsterdam - 10 October 2024**
@@ -21,9 +29,4 @@ Run the `setup.sql` script to create db objects and external access integration.
 
 ### 2. Import Notebooks (In progress)
 
-⚠️ Dear HOL Participants,
-We kindly recommend importing the notebook after 29th September 2024, when the final version will be released.
-
-More information will be provided in this README.md file once the final notebooks are uploaded to this GitHub repository.
-Thank you for your understanding!
-
+In progress
