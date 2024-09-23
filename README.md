@@ -1,15 +1,16 @@
-⚠️⚠️⚠️ **Dear HOL Participants,
-We kindly recommend running Pre-Reqs after 29th September 2024, when the final version will be released on this repo.** 
+## **SWT - Amsterdam - 03 October 2024**
 
-We are running some final tests before the HoL scheduled for the 3rd October. 
-More information will be provided in this README.md file once the **final** notebooks and datasets are uploaded to this GitHub repository.
+⚠️ **We kindly recommend running Pre-Reqs after 29th September 2024, when the final version will be released on this repo.** ⚠️
+
+We are just running some final checks before the HoL session. 
+More information will be provided in this `README.md` file once the **final** notebooks and datasets are uploaded to the GitHub repository.
+
 Thank you for your understanding!
 
 ---
 
 # ⚽ **HOL: Eredivisie Prediction** 🥇
 
-**SWT - Amsterdam - 10 October 2024**
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/640px-Eredivisie_nieuw_logo_2017-.svg.png" alt="Sample Image" width="300" />
 </p>
