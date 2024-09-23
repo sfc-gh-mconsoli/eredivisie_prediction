@@ -48,12 +48,13 @@ You can import them following these steps:
 - Import Notebooks one by one selecting the DB.SCHEMA `EREDIVISIE_PREDICTION.PUBLIC`, and Virtual Warehouse `EREDIVISIE_PREDICTION_WH`
 - On each notebook, you'll find a `Setup` markdown that might require to import specific packages on each notebooks.
 
-### 3. Execution - HoL
-Simply run through the Notebooks:
+## Hands-On-Lab
 
-- 1_Ingestion: on trial accounts execute just the last few cells, the first part is loading dataset that is already covered by the `setup_trial.sql`
-- 2_Transformation
-- 3_Training
-- 4_Inference
+Run through the notebooks provided in this GitHub Repo and imported in your Snowflake account during the pre-reqs:
+
+- **1_Ingestion**: on trial accounts execute just the last few cells, the first part is loading dataset that is already covered by the `setup_trial.sql`
+- **2_Transformation**
+- **3_Training**
+- **4_Inference**
 
 ⚽ **Happy Prediction and remember that the primary purpose of this HoL is to have fun. While the model's accuracy might be low, many football fans will appreciate the outcomes!** ⚽
