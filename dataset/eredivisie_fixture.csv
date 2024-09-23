@@ -1,4 +1,4 @@
-MatchNumber,RoundNumber,Date,Location,Fix_HomeTeam,Fix_AwayTeam,Result
+MatchNumber,RoundNumber,Date,Location,Result,Fix_HomeTeam,Fix_AwayTeam
 6,1,09/08/2024 20:00,Euroborg,4 - 1,FC Groningen,NAC Breda
 2,1,10/08/2024 16:30,De Kuip,1 - 1,Feyenoord,Willem II
 7,1,10/08/2024 18:45,Goffertstadion,1 - 2,NEC Nijmegen,FC Twente
