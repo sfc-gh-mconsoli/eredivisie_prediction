@@ -1,307 +1,307 @@
-Match Number,Round Number,Date,Location,Home Team,Away Team,Result
-6,1,09/08/2024 20:00,Euroborg,FC Groningen,NAC Breda,4 - 1
-2,1,10/08/2024 16:30,De Kuip,Feyenoord,Willem II,1 - 1
-7,1,10/08/2024 18:45,Goffertstadion,N.E.C. Nijmegen,FC Twente,1 - 2
-5,1,10/08/2024 20:00,Yanmar Stadion,Almere City FC,AZ,0 - 1
-1,1,10/08/2024 21:00,Philips Stadion,PSV,RKC Waalwijk,5 - 1
-9,1,11/08/2024 12:15,Het Kasteel,Sparta Rotterdam,Heracles Almelo,0 - 0
-3,1,11/08/2024 14:30,De Adelaarshorst,Go Ahead Eagles,Fortuna Sittard,0 - 2
-4,1,11/08/2024 14:30,Stadion Galgenwaard,FC Utrecht,PEC Zwolle,1 - 0
-8,1,11/08/2024 16:45,Johan Cruyff Arena,Ajax,sc Heerenveen,1 - 0
-14,2,16/08/2024 20:00,Fortuna Sittard Stadion,Fortuna Sittard,Almere City FC,3 - 0
-13,2,17/08/2024 16:30,Abe Lenstra Stadion,sc Heerenveen,FC Utrecht,1 - 1
-18,2,17/08/2024 18:45,De Grolsch Veste,FC Twente,Sparta Rotterdam,1 - 1
-11,2,17/08/2024 20:00,AFAS Stadion,AZ,N.E.C. Nijmegen,1 - 0
-16,2,17/08/2024 21:00,Mandemakers Stadion,RKC Waalwijk,FC Groningen,1 - 2
-15,2,18/08/2024 12:15,Erve Asito,Heracles Almelo,PSV,1 - 3
-10,2,18/08/2024 14:30,MAC³PARK Stadion,PEC Zwolle,Feyenoord,1 - 5
-17,2,18/08/2024 14:30,Koning Willem II Stadion,Willem II,Go Ahead Eagles,2 - 0
-12,2,18/08/2024 16:45,Rat Verlegh Stadion,NAC Breda,Ajax,2 - 1
-20,3,24/08/2024 18:45,Goffertstadion,N.E.C. Nijmegen,PEC Zwolle,
-19,3,24/08/2024 20:00,Yanmar Stadion,Almere City FC,PSV,
-24,3,24/08/2024 21:00,Rat Verlegh Stadion,NAC Breda,FC Utrecht,
-21,3,25/08/2024 02:00,Johan Cruyff Arena,Ajax,Fortuna Sittard,
-22,3,25/08/2024 02:00,De Grolsch Veste,FC Twente,sc Heerenveen,
-27,3,25/08/2024 12:15,Euroborg,FC Groningen,AZ,
-23,3,25/08/2024 14:30,Het Kasteel,Sparta Rotterdam,Feyenoord,
-26,3,25/08/2024 14:30,Erve Asito,Heracles Almelo,Willem II,
-25,3,25/08/2024 16:45,De Adelaarshorst,Go Ahead Eagles,RKC Waalwijk,
-35,4,30/08/2024 20:00,Mandemakers Stadion,RKC Waalwijk,AZ,
-29,4,31/08/2024 16:30,Yanmar Stadion,Almere City FC,FC Groningen,
-30,4,31/08/2024 18:45,Fortuna Sittard Stadion,Fortuna Sittard,N.E.C. Nijmegen,
-33,4,31/08/2024 20:00,Abe Lenstra Stadion,sc Heerenveen,NAC Breda,
-31,4,31/08/2024 21:00,Koning Willem II Stadion,Willem II,Sparta Rotterdam,
-32,4,01/09/2024 12:15,Stadion Galgenwaard,FC Utrecht,FC Twente,
-28,4,01/09/2024 14:30,De Kuip,Feyenoord,Ajax,
-36,4,01/09/2024 14:30,MAC³PARK Stadion,PEC Zwolle,Heracles Almelo,
-34,4,01/09/2024 16:45,Philips Stadion,PSV,Go Ahead Eagles,
-39,5,14/09/2024 16:30,De Grolsch Veste,FC Twente,PEC Zwolle,
-38,5,14/09/2024 18:45,Rat Verlegh Stadion,NAC Breda,Fortuna Sittard,
-42,5,14/09/2024 18:45,Euroborg,FC Groningen,Feyenoord,
-37,5,14/09/2024 21:00,AFAS Stadion,AZ,sc Heerenveen,
-41,5,14/09/2024 21:00,Philips Stadion,PSV,N.E.C. Nijmegen,
-44,5,15/09/2024 12:15,Het Kasteel,Sparta Rotterdam,Go Ahead Eagles,
-40,5,15/09/2024 14:30,Koning Willem II Stadion,Willem II,RKC Waalwijk,
-45,5,15/09/2024 14:30,Johan Cruyff Arena,Ajax,FC Utrecht,
-43,5,15/09/2024 16:45,Erve Asito,Heracles Almelo,Almere City FC,
-51,6,20/09/2024 20:00,MAC³PARK Stadion,PEC Zwolle,AZ,
-50,6,21/09/2024 16:30,Stadion Galgenwaard,FC Utrecht,Willem II,
-52,6,21/09/2024 18:45,Mandemakers Stadion,RKC Waalwijk,Sparta Rotterdam,
-46,6,21/09/2024 20:00,De Adelaarshorst,Go Ahead Eagles,Ajax,
-48,6,21/09/2024 21:00,Goffertstadion,N.E.C. Nijmegen,Heracles Almelo,
-53,6,22/09/2024 12:15,Abe Lenstra Stadion,sc Heerenveen,FC Groningen,
-47,6,22/09/2024 14:30,De Kuip,Feyenoord,NAC Breda,
-54,6,22/09/2024 14:30,Yanmar Stadion,Almere City FC,FC Twente,
-49,6,22/09/2024 16:45,Fortuna Sittard Stadion,Fortuna Sittard,PSV,
-60,7,27/09/2024 20:00,Erve Asito,Heracles Almelo,sc Heerenveen,
-57,7,28/09/2024 16:30,De Grolsch Veste,FC Twente,NAC Breda,
-58,7,28/09/2024 18:45,Goffertstadion,N.E.C. Nijmegen,Feyenoord,
-55,7,28/09/2024 20:00,Het Kasteel,Sparta Rotterdam,Fortuna Sittard,
-63,7,28/09/2024 21:00,Koning Willem II Stadion,Willem II,PSV,
-62,7,29/09/2024 12:15,MAC³PARK Stadion,PEC Zwolle,Almere City FC,
-56,7,29/09/2024 14:30,Euroborg,FC Groningen,Go Ahead Eagles,
-59,7,29/09/2024 14:30,Mandemakers Stadion,RKC Waalwijk,Ajax,
-61,7,29/09/2024 16:45,AFAS Stadion,AZ,FC Utrecht,
-64,8,04/10/2024 20:00,Yanmar Stadion,Almere City FC,Willem II,
-65,8,05/10/2024 18:45,Abe Lenstra Stadion,sc Heerenveen,PEC Zwolle,
-67,8,05/10/2024 20:00,Philips Stadion,PSV,Sparta Rotterdam,
-70,8,05/10/2024 20:00,Rat Verlegh Stadion,NAC Breda,N.E.C. Nijmegen,
-71,8,05/10/2024 21:00,Stadion Galgenwaard,FC Utrecht,RKC Waalwijk,
-72,8,06/10/2024 12:15,De Kuip,Feyenoord,FC Twente,
-68,8,06/10/2024 14:30,Johan Cruyff Arena,Ajax,FC Groningen,
-69,8,06/10/2024 14:30,De Adelaarshorst,Go Ahead Eagles,Heracles Almelo,
-66,8,06/10/2024 16:45,Fortuna Sittard Stadion,Fortuna Sittard,AZ,
-73,9,19/10/2024 16:30,Het Kasteel,Sparta Rotterdam,Almere City FC,
-78,9,19/10/2024 18:45,AFAS Stadion,AZ,PSV,
-77,9,19/10/2024 20:00,Goffertstadion,N.E.C. Nijmegen,sc Heerenveen,
-81,9,19/10/2024 20:00,Mandemakers Stadion,RKC Waalwijk,FC Twente,
-79,9,19/10/2024 21:00,De Adelaarshorst,Go Ahead Eagles,Feyenoord,
-76,9,20/10/2024 12:15,Koning Willem II Stadion,Willem II,Fortuna Sittard,
-75,9,20/10/2024 14:30,Erve Asito,Heracles Almelo,Ajax,
-80,9,20/10/2024 14:30,Euroborg,FC Groningen,FC Utrecht,
-74,9,20/10/2024 16:45,MAC³PARK Stadion,PEC Zwolle,NAC Breda,
-85,10,25/10/2024 20:00,Yanmar Stadion,Almere City FC,N.E.C. Nijmegen,
-86,10,26/10/2024 16:30,Fortuna Sittard Stadion,Fortuna Sittard,FC Groningen,
-88,10,26/10/2024 18:45,Rat Verlegh Stadion,NAC Breda,RKC Waalwijk,
-89,10,26/10/2024 20:00,Philips Stadion,PSV,PEC Zwolle,
-84,10,26/10/2024 21:00,Abe Lenstra Stadion,sc Heerenveen,Sparta Rotterdam,
-90,10,27/10/2024 12:15,Stadion Galgenwaard,FC Utrecht,Feyenoord,
-82,10,27/10/2024 14:30,De Grolsch Veste,FC Twente,Heracles Almelo,
-83,10,27/10/2024 14:30,AFAS Stadion,AZ,Go Ahead Eagles,
-87,10,27/10/2024 16:45,Johan Cruyff Arena,Ajax,Willem II,
-99,11,02/11/2024 16:30,De Kuip,Feyenoord,AZ,
-91,11,02/11/2024 18:45,Erve Asito,Heracles Almelo,NAC Breda,
-97,11,02/11/2024 18:45,Koning Willem II Stadion,Willem II,FC Twente,
-93,11,02/11/2024 20:00,Johan Cruyff Arena,Ajax,PSV,
-96,11,02/11/2024 21:00,Fortuna Sittard Stadion,Fortuna Sittard,sc Heerenveen,
-98,11,03/11/2024 12:15,De Adelaarshorst,Go Ahead Eagles,PEC Zwolle,
-92,11,03/11/2024 14:30,Goffertstadion,N.E.C. Nijmegen,FC Groningen,
-95,11,03/11/2024 14:30,Het Kasteel,Sparta Rotterdam,FC Utrecht,
-94,11,03/11/2024 16:45,Mandemakers Stadion,RKC Waalwijk,Almere City FC,
-104,12,08/11/2024 20:00,Stadion Galgenwaard,FC Utrecht,Heracles Almelo,
-100,12,09/11/2024 16:30,Euroborg,FC Groningen,Sparta Rotterdam,
-105,12,09/11/2024 18:45,MAC³PARK Stadion,PEC Zwolle,Fortuna Sittard,
-102,12,09/11/2024 20:00,Rat Verlegh Stadion,NAC Breda,PSV,
-106,12,09/11/2024 21:00,Mandemakers Stadion,RKC Waalwijk,N.E.C. Nijmegen,
-108,12,10/11/2024 12:15,Yanmar Stadion,Almere City FC,Feyenoord,
-101,12,10/11/2024 14:30,Abe Lenstra Stadion,sc Heerenveen,Go Ahead Eagles,
-107,12,10/11/2024 14:30,De Grolsch Veste,FC Twente,Ajax,
-103,12,10/11/2024 16:45,AFAS Stadion,AZ,Willem II,
-110,13,23/11/2024 16:30,Philips Stadion,PSV,FC Groningen,
-114,13,23/11/2024 18:45,De Adelaarshorst,Go Ahead Eagles,Almere City FC,
-109,13,23/11/2024 20:00,Erve Asito,Heracles Almelo,RKC Waalwijk,
-115,13,23/11/2024 20:00,De Kuip,Feyenoord,sc Heerenveen,
-113,13,23/11/2024 21:00,Fortuna Sittard Stadion,Fortuna Sittard,FC Twente,
-117,13,24/11/2024 12:15,Goffertstadion,N.E.C. Nijmegen,FC Utrecht,
-111,13,24/11/2024 14:30,Koning Willem II Stadion,Willem II,NAC Breda,
-116,13,24/11/2024 14:30,Het Kasteel,Sparta Rotterdam,AZ,
-112,13,24/11/2024 16:45,Johan Cruyff Arena,Ajax,PEC Zwolle,
-119,14,29/11/2024 20:00,Abe Lenstra Stadion,sc Heerenveen,RKC Waalwijk,
-124,14,30/11/2024 16:30,Rat Verlegh Stadion,NAC Breda,Almere City FC,
-120,14,30/11/2024 18:45,Euroborg,FC Groningen,Willem II,
-121,14,30/11/2024 20:00,De Kuip,Feyenoord,Fortuna Sittard,
-123,14,30/11/2024 21:00,MAC³PARK Stadion,PEC Zwolle,Sparta Rotterdam,
-126,14,01/12/2024 12:15,Stadion Galgenwaard,FC Utrecht,PSV,
-118,14,01/12/2024 14:30,AFAS Stadion,AZ,Heracles Almelo,
-125,14,01/12/2024 14:30,De Grolsch Veste,FC Twente,Go Ahead Eagles,
-122,14,01/12/2024 16:45,Goffertstadion,N.E.C. Nijmegen,Ajax,
-127,15,08/12/2024 01:00,De Adelaarshorst,Go Ahead Eagles,N.E.C. Nijmegen,
-128,15,08/12/2024 01:00,Koning Willem II Stadion,Willem II,sc Heerenveen,
-129,15,08/12/2024 01:00,AFAS Stadion,AZ,Ajax,
-130,15,08/12/2024 01:00,Mandemakers Stadion,RKC Waalwijk,Feyenoord,
-131,15,08/12/2024 01:00,Het Kasteel,Sparta Rotterdam,NAC Breda,
-132,15,08/12/2024 01:00,Yanmar Stadion,Almere City FC,FC Utrecht,
-133,15,08/12/2024 01:00,Erve Asito,Heracles Almelo,Fortuna Sittard,
-134,15,08/12/2024 01:00,Philips Stadion,PSV,FC Twente,
-135,15,08/12/2024 01:00,Euroborg,FC Groningen,PEC Zwolle,
-136,16,15/12/2024 01:00,Goffertstadion,N.E.C. Nijmegen,Sparta Rotterdam,
-137,16,15/12/2024 01:00,Abe Lenstra Stadion,sc Heerenveen,PSV,
-138,16,15/12/2024 01:00,Johan Cruyff Arena,Ajax,Almere City FC,
-139,16,15/12/2024 01:00,De Kuip,Feyenoord,Heracles Almelo,
-140,16,15/12/2024 01:00,De Grolsch Veste,FC Twente,FC Groningen,
-141,16,15/12/2024 01:00,Fortuna Sittard Stadion,Fortuna Sittard,RKC Waalwijk,
-142,16,15/12/2024 01:00,Rat Verlegh Stadion,NAC Breda,AZ,
-143,16,15/12/2024 01:00,MAC³PARK Stadion,PEC Zwolle,Willem II,
-144,16,15/12/2024 01:00,Stadion Galgenwaard,FC Utrecht,Go Ahead Eagles,
-145,17,22/12/2024 01:00,Philips Stadion,PSV,Feyenoord,
-146,17,22/12/2024 01:00,AFAS Stadion,AZ,FC Twente,
-147,17,22/12/2024 01:00,Mandemakers Stadion,RKC Waalwijk,PEC Zwolle,
-148,17,22/12/2024 01:00,Erve Asito,Heracles Almelo,FC Groningen,
-149,17,22/12/2024 01:00,Koning Willem II Stadion,Willem II,N.E.C. Nijmegen,
-150,17,22/12/2024 01:00,Het Kasteel,Sparta Rotterdam,Ajax,
-151,17,22/12/2024 01:00,De Adelaarshorst,Go Ahead Eagles,NAC Breda,
-152,17,22/12/2024 01:00,Stadion Galgenwaard,FC Utrecht,Fortuna Sittard,
-153,17,22/12/2024 01:00,Yanmar Stadion,Almere City FC,sc Heerenveen,
-154,18,12/01/2025 01:00,Rat Verlegh Stadion,NAC Breda,sc Heerenveen,
-155,18,12/01/2025 01:00,MAC³PARK Stadion,PEC Zwolle,N.E.C. Nijmegen,
-156,18,12/01/2025 01:00,Philips Stadion,PSV,AZ,
-157,18,12/01/2025 01:00,Euroborg,FC Groningen,Almere City FC,
-158,18,12/01/2025 01:00,Johan Cruyff Arena,Ajax,RKC Waalwijk,
-159,18,12/01/2025 01:00,Erve Asito,Heracles Almelo,Sparta Rotterdam,
-160,18,12/01/2025 01:00,De Kuip,Feyenoord,FC Utrecht,
-161,18,12/01/2025 01:00,De Grolsch Veste,FC Twente,Willem II,
-162,18,12/01/2025 01:00,Fortuna Sittard Stadion,Fortuna Sittard,Go Ahead Eagles,
-163,19,19/01/2025 01:00,Abe Lenstra Stadion,sc Heerenveen,Ajax,
-164,19,19/01/2025 01:00,De Adelaarshorst,Go Ahead Eagles,FC Groningen,
-165,19,19/01/2025 01:00,Koning Willem II Stadion,Willem II,Feyenoord,
-166,19,19/01/2025 01:00,Rat Verlegh Stadion,NAC Breda,FC Twente,
-167,19,19/01/2025 01:00,Yanmar Stadion,Almere City FC,Heracles Almelo,
-168,19,19/01/2025 01:00,Het Kasteel,Sparta Rotterdam,RKC Waalwijk,
-169,19,19/01/2025 01:00,Stadion Galgenwaard,FC Utrecht,AZ,
-170,19,19/01/2025 01:00,Goffertstadion,N.E.C. Nijmegen,Fortuna Sittard,
-171,19,19/01/2025 01:00,MAC³PARK Stadion,PEC Zwolle,PSV,
-172,20,26/01/2025 01:00,AFAS Stadion,AZ,Sparta Rotterdam,
-173,20,26/01/2025 01:00,Erve Asito,Heracles Almelo,FC Utrecht,
-174,20,26/01/2025 01:00,De Grolsch Veste,FC Twente,N.E.C. Nijmegen,
-175,20,26/01/2025 01:00,Fortuna Sittard Stadion,Fortuna Sittard,PEC Zwolle,
-176,20,26/01/2025 01:00,Mandemakers Stadion,RKC Waalwijk,Willem II,
-177,20,26/01/2025 01:00,De Kuip,Feyenoord,Almere City FC,
-178,20,26/01/2025 01:00,Johan Cruyff Arena,Ajax,Go Ahead Eagles,
-179,20,26/01/2025 01:00,Philips Stadion,PSV,NAC Breda,
-180,20,26/01/2025 01:00,Euroborg,FC Groningen,sc Heerenveen,
-181,21,02/02/2025 01:00,Het Kasteel,Sparta Rotterdam,FC Groningen,
-182,21,02/02/2025 01:00,Rat Verlegh Stadion,NAC Breda,Heracles Almelo,
-183,21,02/02/2025 01:00,Abe Lenstra Stadion,sc Heerenveen,Fortuna Sittard,
-184,21,02/02/2025 01:00,Goffertstadion,N.E.C. Nijmegen,PSV,
-185,21,02/02/2025 01:00,Koning Willem II Stadion,Willem II,AZ,
-186,21,02/02/2025 01:00,Johan Cruyff Arena,Ajax,Feyenoord,
-187,21,02/02/2025 01:00,MAC³PARK Stadion,PEC Zwolle,FC Utrecht,
-188,21,02/02/2025 01:00,De Adelaarshorst,Go Ahead Eagles,FC Twente,
-189,21,02/02/2025 01:00,Yanmar Stadion,Almere City FC,RKC Waalwijk,
-190,22,09/02/2025 01:00,Euroborg,FC Groningen,N.E.C. Nijmegen,
-191,22,09/02/2025 01:00,Abe Lenstra Stadion,sc Heerenveen,FC Twente,
-192,22,09/02/2025 01:00,Mandemakers Stadion,RKC Waalwijk,NAC Breda,
-193,22,09/02/2025 01:00,De Kuip,Feyenoord,Sparta Rotterdam,
-194,22,09/02/2025 01:00,AFAS Stadion,AZ,PEC Zwolle,
-195,22,09/02/2025 01:00,Philips Stadion,PSV,Willem II,
-196,22,09/02/2025 01:00,Erve Asito,Heracles Almelo,Go Ahead Eagles,
-197,22,09/02/2025 01:00,Stadion Galgenwaard,FC Utrecht,Almere City FC,
-198,22,09/02/2025 01:00,Fortuna Sittard Stadion,Fortuna Sittard,Ajax,
-199,23,16/02/2025 01:00,De Adelaarshorst,Go Ahead Eagles,Sparta Rotterdam,
-200,23,16/02/2025 01:00,MAC³PARK Stadion,PEC Zwolle,sc Heerenveen,
-201,23,16/02/2025 01:00,De Grolsch Veste,FC Twente,RKC Waalwijk,
-202,23,16/02/2025 01:00,Goffertstadion,N.E.C. Nijmegen,Almere City FC,
-203,23,16/02/2025 01:00,Johan Cruyff Arena,Ajax,Heracles Almelo,
-204,23,16/02/2025 01:00,Philips Stadion,PSV,FC Utrecht,
-205,23,16/02/2025 01:00,AFAS Stadion,AZ,Fortuna Sittard,
-206,23,16/02/2025 01:00,Koning Willem II Stadion,Willem II,FC Groningen,
-207,23,16/02/2025 01:00,Rat Verlegh Stadion,NAC Breda,Feyenoord,
-208,24,02/03/2025 01:00,De Adelaarshorst,Go Ahead Eagles,PSV,
-209,24,02/03/2025 01:00,Erve Asito,Heracles Almelo,PEC Zwolle,
-210,24,02/03/2025 01:00,Het Kasteel,Sparta Rotterdam,Willem II,
-211,24,02/03/2025 01:00,Euroborg,FC Groningen,FC Twente,
-212,24,02/03/2025 01:00,Stadion Galgenwaard,FC Utrecht,NAC Breda,
-213,24,02/03/2025 01:00,Yanmar Stadion,Almere City FC,Ajax,
-214,24,02/03/2025 01:00,Abe Lenstra Stadion,sc Heerenveen,AZ,
-215,24,02/03/2025 01:00,Mandemakers Stadion,RKC Waalwijk,Fortuna Sittard,
-216,24,02/03/2025 01:00,De Kuip,Feyenoord,N.E.C. Nijmegen,
-217,25,09/03/2025 01:00,Goffertstadion,N.E.C. Nijmegen,Go Ahead Eagles,
-218,25,09/03/2025 01:00,Rat Verlegh Stadion,NAC Breda,Sparta Rotterdam,
-219,25,09/03/2025 01:00,De Grolsch Veste,FC Twente,Almere City FC,
-220,25,09/03/2025 01:00,Koning Willem II Stadion,Willem II,FC Utrecht,
-221,25,09/03/2025 01:00,Fortuna Sittard Stadion,Fortuna Sittard,Heracles Almelo,
-222,25,09/03/2025 01:00,Philips Stadion,PSV,sc Heerenveen,
-223,25,09/03/2025 01:00,MAC³PARK Stadion,PEC Zwolle,Ajax,
-224,25,09/03/2025 01:00,AFAS Stadion,AZ,RKC Waalwijk,
-225,25,09/03/2025 01:00,De Kuip,Feyenoord,FC Groningen,
-226,26,16/03/2025 01:00,Abe Lenstra Stadion,sc Heerenveen,Heracles Almelo,
-227,26,16/03/2025 01:00,Johan Cruyff Arena,Ajax,AZ,
-228,26,16/03/2025 01:00,Stadion Galgenwaard,FC Utrecht,N.E.C. Nijmegen,
-229,26,16/03/2025 01:00,De Adelaarshorst,Go Ahead Eagles,Willem II,
-230,26,16/03/2025 01:00,De Grolsch Veste,FC Twente,Feyenoord,
-231,26,16/03/2025 01:00,Euroborg,FC Groningen,Fortuna Sittard,
-232,26,16/03/2025 01:00,Yanmar Stadion,Almere City FC,NAC Breda,
-233,26,16/03/2025 01:00,Het Kasteel,Sparta Rotterdam,PEC Zwolle,
-234,26,16/03/2025 01:00,Mandemakers Stadion,RKC Waalwijk,PSV,
-235,27,30/03/2025 01:00,Fortuna Sittard Stadion,Fortuna Sittard,Sparta Rotterdam,
-236,27,30/03/2025 01:00,Rat Verlegh Stadion,NAC Breda,FC Groningen,
-237,27,30/03/2025 01:00,Koning Willem II Stadion,Willem II,Almere City FC,
-238,27,30/03/2025 01:00,De Kuip,Feyenoord,Go Ahead Eagles,
-239,27,30/03/2025 01:00,Erve Asito,Heracles Almelo,FC Twente,
-240,27,30/03/2025 01:00,Stadion Galgenwaard,FC Utrecht,sc Heerenveen,
-241,27,30/03/2025 01:00,MAC³PARK Stadion,PEC Zwolle,RKC Waalwijk,
-242,27,30/03/2025 01:00,Philips Stadion,PSV,Ajax,
-243,27,30/03/2025 01:00,Goffertstadion,N.E.C. Nijmegen,AZ,
-244,28,06/04/2025 02:00,Abe Lenstra Stadion,sc Heerenveen,Willem II,
-245,28,06/04/2025 02:00,Mandemakers Stadion,RKC Waalwijk,Heracles Almelo,
-246,28,06/04/2025 02:00,Yanmar Stadion,Almere City FC,PEC Zwolle,
-247,28,06/04/2025 02:00,Euroborg,FC Groningen,PSV,
-248,28,06/04/2025 02:00,De Adelaarshorst,Go Ahead Eagles,FC Utrecht,
-249,28,06/04/2025 02:00,De Grolsch Veste,FC Twente,Fortuna Sittard,
-250,28,06/04/2025 02:00,Het Kasteel,Sparta Rotterdam,N.E.C. Nijmegen,
-251,28,06/04/2025 02:00,AFAS Stadion,AZ,Feyenoord,
-252,28,06/04/2025 02:00,Johan Cruyff Arena,Ajax,NAC Breda,
-253,29,13/04/2025 02:00,Koning Willem II Stadion,Willem II,Ajax,
-254,29,13/04/2025 02:00,Rat Verlegh Stadion,NAC Breda,Go Ahead Eagles,
-255,29,13/04/2025 02:00,Erve Asito,Heracles Almelo,AZ,
-256,29,13/04/2025 02:00,Goffertstadion,N.E.C. Nijmegen,RKC Waalwijk,
-257,29,13/04/2025 02:00,MAC³PARK Stadion,PEC Zwolle,FC Twente,
-258,29,13/04/2025 02:00,Het Kasteel,Sparta Rotterdam,sc Heerenveen,
-259,29,13/04/2025 02:00,Philips Stadion,PSV,Almere City FC,
-260,29,13/04/2025 02:00,Stadion Galgenwaard,FC Utrecht,FC Groningen,
-261,29,13/04/2025 02:00,Fortuna Sittard Stadion,Fortuna Sittard,Feyenoord,
-262,30,27/04/2025 02:00,Johan Cruyff Arena,Ajax,Sparta Rotterdam,
-263,30,27/04/2025 02:00,Euroborg,FC Groningen,Heracles Almelo,
-264,30,27/04/2025 02:00,Yanmar Stadion,Almere City FC,Go Ahead Eagles,
-265,30,27/04/2025 02:00,Fortuna Sittard Stadion,Fortuna Sittard,Willem II,
-266,30,27/04/2025 02:00,AFAS Stadion,AZ,NAC Breda,
-267,30,27/04/2025 02:00,De Kuip,Feyenoord,PEC Zwolle,
-268,30,27/04/2025 02:00,Mandemakers Stadion,RKC Waalwijk,FC Utrecht,
-269,30,27/04/2025 02:00,De Grolsch Veste,FC Twente,PSV,
-270,30,27/04/2025 02:00,Abe Lenstra Stadion,sc Heerenveen,N.E.C. Nijmegen,
-271,31,04/05/2025 02:00,De Adelaarshorst,Go Ahead Eagles,AZ,
-272,31,04/05/2025 02:00,Erve Asito,Heracles Almelo,Feyenoord,
-273,31,04/05/2025 02:00,Philips Stadion,PSV,Fortuna Sittard,
-274,31,04/05/2025 02:00,Abe Lenstra Stadion,sc Heerenveen,Almere City FC,
-275,31,04/05/2025 02:00,Goffertstadion,N.E.C. Nijmegen,Willem II,
-276,31,04/05/2025 02:00,Het Kasteel,Sparta Rotterdam,FC Twente,
-277,31,04/05/2025 02:00,Stadion Galgenwaard,FC Utrecht,Ajax,
-278,31,04/05/2025 02:00,Euroborg,FC Groningen,RKC Waalwijk,
-279,31,04/05/2025 02:00,Rat Verlegh Stadion,NAC Breda,PEC Zwolle,
-280,32,11/05/2025 02:00,MAC³PARK Stadion,PEC Zwolle,Go Ahead Eagles,
-281,32,11/05/2025 02:00,De Kuip,Feyenoord,PSV,
-282,32,11/05/2025 02:00,Koning Willem II Stadion,Willem II,Heracles Almelo,
-283,32,11/05/2025 02:00,Mandemakers Stadion,RKC Waalwijk,sc Heerenveen,
-284,32,11/05/2025 02:00,Fortuna Sittard Stadion,Fortuna Sittard,NAC Breda,
-285,32,11/05/2025 02:00,De Grolsch Veste,FC Twente,FC Utrecht,
-286,32,11/05/2025 02:00,Johan Cruyff Arena,Ajax,N.E.C. Nijmegen,
-287,32,11/05/2025 02:00,AFAS Stadion,AZ,FC Groningen,
-288,32,11/05/2025 02:00,Yanmar Stadion,Almere City FC,Sparta Rotterdam,
-289,33,14/05/2025 20:00,Yanmar Stadion,Almere City FC,Fortuna Sittard,
-290,33,14/05/2025 20:00,De Grolsch Veste,FC Twente,AZ,
-291,33,14/05/2025 20:00,Goffertstadion,N.E.C. Nijmegen,NAC Breda,
-292,33,14/05/2025 20:00,Euroborg,FC Groningen,Ajax,
-293,33,14/05/2025 20:00,Philips Stadion,PSV,Heracles Almelo,
-294,33,14/05/2025 20:00,De Kuip,Feyenoord,RKC Waalwijk,
-295,33,14/05/2025 20:00,Koning Willem II Stadion,Willem II,PEC Zwolle,
-296,33,14/05/2025 20:00,Stadion Galgenwaard,FC Utrecht,Sparta Rotterdam,
-297,33,14/05/2025 20:00,De Adelaarshorst,Go Ahead Eagles,sc Heerenveen,
-298,34,18/05/2025 14:30,MAC³PARK Stadion,PEC Zwolle,FC Groningen,
-299,34,18/05/2025 14:30,Fortuna Sittard Stadion,Fortuna Sittard,FC Utrecht,
-300,34,18/05/2025 14:30,Johan Cruyff Arena,Ajax,FC Twente,
-301,34,18/05/2025 14:30,Het Kasteel,Sparta Rotterdam,PSV,
-302,34,18/05/2025 14:30,Rat Verlegh Stadion,NAC Breda,Willem II,
-303,34,18/05/2025 14:30,AFAS Stadion,AZ,Almere City FC,
-304,34,18/05/2025 14:30,Erve Asito,Heracles Almelo,N.E.C. Nijmegen,
-305,34,18/05/2025 14:30,Mandemakers Stadion,RKC Waalwijk,Go Ahead Eagles,
-306,34,18/05/2025 14:30,Abe Lenstra Stadion,sc Heerenveen,Feyenoord,
+MatchNumber,RoundNumber,Date,Location,Fix_HomeTeam,Fix_AwayTeam,Result
+6,1,09/08/2024 20:00,Euroborg,4 - 1,FC Groningen,NAC Breda
+2,1,10/08/2024 16:30,De Kuip,1 - 1,Feyenoord,Willem II
+7,1,10/08/2024 18:45,Goffertstadion,1 - 2,NEC Nijmegen,FC Twente
+5,1,10/08/2024 20:00,Yanmar Stadion,0 - 1,Almere City FC,AZ Alkmaar
+1,1,10/08/2024 21:00,Philips Stadion,5 - 1,PSV Eindhoven,RKC Waalwijk
+9,1,11/08/2024 12:15,Het Kasteel,0 - 0,Sparta Rotterdam,Heracles Almelo
+3,1,11/08/2024 14:30,De Adelaarshorst,0 - 2,Go Ahead Eagles,Fortuna Sittard
+4,1,11/08/2024 14:30,Stadion Galgenwaard,1 - 0,FC Utrecht,PEC Zwolle
+8,1,11/08/2024 16:45,Johan Cruyff Arena,1 - 0,Ajax,SC Heerenveen
+14,2,16/08/2024 20:00,Fortuna Sittard Stadion,3 - 0,Fortuna Sittard,Almere City FC
+13,2,17/08/2024 16:30,Abe Lenstra Stadion,1 - 1,SC Heerenveen,FC Utrecht
+18,2,17/08/2024 18:45,De Grolsch Veste,1 - 1,FC Twente,Sparta Rotterdam
+11,2,17/08/2024 20:00,AFAS Stadion,1 - 0,AZ Alkmaar,NEC Nijmegen
+16,2,17/08/2024 21:00,Mandemakers Stadion,1 - 2,RKC Waalwijk,FC Groningen
+15,2,18/08/2024 12:15,Erve Asito,1 - 3,Heracles Almelo,PSV Eindhoven
+10,2,18/08/2024 14:30,MAC³PARK Stadion,1 - 5,PEC Zwolle,Feyenoord
+17,2,18/08/2024 14:30,Koning Willem II Stadion,2 - 0,Willem II,Go Ahead Eagles
+12,2,18/08/2024 16:45,Rat Verlegh Stadion,2 - 1,NAC Breda,Ajax
+20,3,24/08/2024 18:45,Goffertstadion,\\N,NEC Nijmegen,PEC Zwolle
+19,3,24/08/2024 20:00,Yanmar Stadion,\\N,Almere City FC,PSV Eindhoven
+24,3,24/08/2024 21:00,Rat Verlegh Stadion,\\N,NAC Breda,FC Utrecht
+21,3,25/08/2024 02:00,Johan Cruyff Arena,\\N,Ajax,Fortuna Sittard
+22,3,25/08/2024 02:00,De Grolsch Veste,\\N,FC Twente,SC Heerenveen
+27,3,25/08/2024 12:15,Euroborg,\\N,FC Groningen,AZ Alkmaar
+23,3,25/08/2024 14:30,Het Kasteel,\\N,Sparta Rotterdam,Feyenoord
+26,3,25/08/2024 14:30,Erve Asito,\\N,Heracles Almelo,Willem II
+25,3,25/08/2024 16:45,De Adelaarshorst,\\N,Go Ahead Eagles,RKC Waalwijk
+35,4,30/08/2024 20:00,Mandemakers Stadion,\\N,RKC Waalwijk,AZ Alkmaar
+29,4,31/08/2024 16:30,Yanmar Stadion,\\N,Almere City FC,FC Groningen
+30,4,31/08/2024 18:45,Fortuna Sittard Stadion,\\N,Fortuna Sittard,NEC Nijmegen
+33,4,31/08/2024 20:00,Abe Lenstra Stadion,\\N,SC Heerenveen,NAC Breda
+31,4,31/08/2024 21:00,Koning Willem II Stadion,\\N,Willem II,Sparta Rotterdam
+32,4,01/09/2024 12:15,Stadion Galgenwaard,\\N,FC Utrecht,FC Twente
+28,4,01/09/2024 14:30,De Kuip,\\N,Feyenoord,Ajax
+36,4,01/09/2024 14:30,MAC³PARK Stadion,\\N,PEC Zwolle,Heracles Almelo
+34,4,01/09/2024 16:45,Philips Stadion,\\N,PSV Eindhoven,Go Ahead Eagles
+39,5,14/09/2024 16:30,De Grolsch Veste,\\N,FC Twente,PEC Zwolle
+38,5,14/09/2024 18:45,Rat Verlegh Stadion,\\N,NAC Breda,Fortuna Sittard
+42,5,14/09/2024 18:45,Euroborg,\\N,FC Groningen,Feyenoord
+37,5,14/09/2024 21:00,AFAS Stadion,\\N,AZ Alkmaar,SC Heerenveen
+41,5,14/09/2024 21:00,Philips Stadion,\\N,PSV Eindhoven,NEC Nijmegen
+44,5,15/09/2024 12:15,Het Kasteel,\\N,Sparta Rotterdam,Go Ahead Eagles
+40,5,15/09/2024 14:30,Koning Willem II Stadion,\\N,Willem II,RKC Waalwijk
+45,5,15/09/2024 14:30,Johan Cruyff Arena,\\N,Ajax,FC Utrecht
+43,5,15/09/2024 16:45,Erve Asito,\\N,Heracles Almelo,Almere City FC
+51,6,20/09/2024 20:00,MAC³PARK Stadion,\\N,PEC Zwolle,AZ Alkmaar
+50,6,21/09/2024 16:30,Stadion Galgenwaard,\\N,FC Utrecht,Willem II
+52,6,21/09/2024 18:45,Mandemakers Stadion,\\N,RKC Waalwijk,Sparta Rotterdam
+46,6,21/09/2024 20:00,De Adelaarshorst,\\N,Go Ahead Eagles,Ajax
+48,6,21/09/2024 21:00,Goffertstadion,\\N,NEC Nijmegen,Heracles Almelo
+53,6,22/09/2024 12:15,Abe Lenstra Stadion,\\N,SC Heerenveen,FC Groningen
+47,6,22/09/2024 14:30,De Kuip,\\N,Feyenoord,NAC Breda
+54,6,22/09/2024 14:30,Yanmar Stadion,\\N,Almere City FC,FC Twente
+49,6,22/09/2024 16:45,Fortuna Sittard Stadion,\\N,Fortuna Sittard,PSV Eindhoven
+60,7,27/09/2024 20:00,Erve Asito,\\N,Heracles Almelo,SC Heerenveen
+57,7,28/09/2024 16:30,De Grolsch Veste,\\N,FC Twente,NAC Breda
+58,7,28/09/2024 18:45,Goffertstadion,\\N,NEC Nijmegen,Feyenoord
+55,7,28/09/2024 20:00,Het Kasteel,\\N,Sparta Rotterdam,Fortuna Sittard
+63,7,28/09/2024 21:00,Koning Willem II Stadion,\\N,Willem II,PSV Eindhoven
+62,7,29/09/2024 12:15,MAC³PARK Stadion,\\N,PEC Zwolle,Almere City FC
+56,7,29/09/2024 14:30,Euroborg,\\N,FC Groningen,Go Ahead Eagles
+59,7,29/09/2024 14:30,Mandemakers Stadion,\\N,RKC Waalwijk,Ajax
+61,7,29/09/2024 16:45,AFAS Stadion,\\N,AZ Alkmaar,FC Utrecht
+64,8,04/10/2024 20:00,Yanmar Stadion,\\N,Almere City FC,Willem II
+65,8,05/10/2024 18:45,Abe Lenstra Stadion,\\N,SC Heerenveen,PEC Zwolle
+67,8,05/10/2024 20:00,Philips Stadion,\\N,PSV Eindhoven,Sparta Rotterdam
+70,8,05/10/2024 20:00,Rat Verlegh Stadion,\\N,NAC Breda,NEC Nijmegen
+71,8,05/10/2024 21:00,Stadion Galgenwaard,\\N,FC Utrecht,RKC Waalwijk
+72,8,06/10/2024 12:15,De Kuip,\\N,Feyenoord,FC Twente
+68,8,06/10/2024 14:30,Johan Cruyff Arena,\\N,Ajax,FC Groningen
+69,8,06/10/2024 14:30,De Adelaarshorst,\\N,Go Ahead Eagles,Heracles Almelo
+66,8,06/10/2024 16:45,Fortuna Sittard Stadion,\\N,Fortuna Sittard,AZ Alkmaar
+73,9,19/10/2024 16:30,Het Kasteel,\\N,Sparta Rotterdam,Almere City FC
+78,9,19/10/2024 18:45,AFAS Stadion,\\N,AZ Alkmaar,PSV Eindhoven
+77,9,19/10/2024 20:00,Goffertstadion,\\N,NEC Nijmegen,SC Heerenveen
+81,9,19/10/2024 20:00,Mandemakers Stadion,\\N,RKC Waalwijk,FC Twente
+79,9,19/10/2024 21:00,De Adelaarshorst,\\N,Go Ahead Eagles,Feyenoord
+76,9,20/10/2024 12:15,Koning Willem II Stadion,\\N,Willem II,Fortuna Sittard
+75,9,20/10/2024 14:30,Erve Asito,\\N,Heracles Almelo,Ajax
+80,9,20/10/2024 14:30,Euroborg,\\N,FC Groningen,FC Utrecht
+74,9,20/10/2024 16:45,MAC³PARK Stadion,\\N,PEC Zwolle,NAC Breda
+85,10,25/10/2024 20:00,Yanmar Stadion,\\N,Almere City FC,NEC Nijmegen
+86,10,26/10/2024 16:30,Fortuna Sittard Stadion,\\N,Fortuna Sittard,FC Groningen
+88,10,26/10/2024 18:45,Rat Verlegh Stadion,\\N,NAC Breda,RKC Waalwijk
+89,10,26/10/2024 20:00,Philips Stadion,\\N,PSV Eindhoven,PEC Zwolle
+84,10,26/10/2024 21:00,Abe Lenstra Stadion,\\N,SC Heerenveen,Sparta Rotterdam
+90,10,27/10/2024 12:15,Stadion Galgenwaard,\\N,FC Utrecht,Feyenoord
+82,10,27/10/2024 14:30,De Grolsch Veste,\\N,FC Twente,Heracles Almelo
+83,10,27/10/2024 14:30,AFAS Stadion,\\N,AZ Alkmaar,Go Ahead Eagles
+87,10,27/10/2024 16:45,Johan Cruyff Arena,\\N,Ajax,Willem II
+99,11,02/11/2024 16:30,De Kuip,\\N,Feyenoord,AZ Alkmaar
+91,11,02/11/2024 18:45,Erve Asito,\\N,Heracles Almelo,NAC Breda
+97,11,02/11/2024 18:45,Koning Willem II Stadion,\\N,Willem II,FC Twente
+93,11,02/11/2024 20:00,Johan Cruyff Arena,\\N,Ajax,PSV Eindhoven
+96,11,02/11/2024 21:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,SC Heerenveen
+98,11,03/11/2024 12:15,De Adelaarshorst,\\N,Go Ahead Eagles,PEC Zwolle
+92,11,03/11/2024 14:30,Goffertstadion,\\N,NEC Nijmegen,FC Groningen
+95,11,03/11/2024 14:30,Het Kasteel,\\N,Sparta Rotterdam,FC Utrecht
+94,11,03/11/2024 16:45,Mandemakers Stadion,\\N,RKC Waalwijk,Almere City FC
+104,12,08/11/2024 20:00,Stadion Galgenwaard,\\N,FC Utrecht,Heracles Almelo
+100,12,09/11/2024 16:30,Euroborg,\\N,FC Groningen,Sparta Rotterdam
+105,12,09/11/2024 18:45,MAC³PARK Stadion,\\N,PEC Zwolle,Fortuna Sittard
+102,12,09/11/2024 20:00,Rat Verlegh Stadion,\\N,NAC Breda,PSV Eindhoven
+106,12,09/11/2024 21:00,Mandemakers Stadion,\\N,RKC Waalwijk,NEC Nijmegen
+108,12,10/11/2024 12:15,Yanmar Stadion,\\N,Almere City FC,Feyenoord
+101,12,10/11/2024 14:30,Abe Lenstra Stadion,\\N,SC Heerenveen,Go Ahead Eagles
+107,12,10/11/2024 14:30,De Grolsch Veste,\\N,FC Twente,Ajax
+103,12,10/11/2024 16:45,AFAS Stadion,\\N,AZ Alkmaar,Willem II
+110,13,23/11/2024 16:30,Philips Stadion,\\N,PSV Eindhoven,FC Groningen
+114,13,23/11/2024 18:45,De Adelaarshorst,\\N,Go Ahead Eagles,Almere City FC
+109,13,23/11/2024 20:00,Erve Asito,\\N,Heracles Almelo,RKC Waalwijk
+115,13,23/11/2024 20:00,De Kuip,\\N,Feyenoord,SC Heerenveen
+113,13,23/11/2024 21:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,FC Twente
+117,13,24/11/2024 12:15,Goffertstadion,\\N,NEC Nijmegen,FC Utrecht
+111,13,24/11/2024 14:30,Koning Willem II Stadion,\\N,Willem II,NAC Breda
+116,13,24/11/2024 14:30,Het Kasteel,\\N,Sparta Rotterdam,AZ Alkmaar
+112,13,24/11/2024 16:45,Johan Cruyff Arena,\\N,Ajax,PEC Zwolle
+119,14,29/11/2024 20:00,Abe Lenstra Stadion,\\N,SC Heerenveen,RKC Waalwijk
+124,14,30/11/2024 16:30,Rat Verlegh Stadion,\\N,NAC Breda,Almere City FC
+120,14,30/11/2024 18:45,Euroborg,\\N,FC Groningen,Willem II
+121,14,30/11/2024 20:00,De Kuip,\\N,Feyenoord,Fortuna Sittard
+123,14,30/11/2024 21:00,MAC³PARK Stadion,\\N,PEC Zwolle,Sparta Rotterdam
+126,14,01/12/2024 12:15,Stadion Galgenwaard,\\N,FC Utrecht,PSV Eindhoven
+118,14,01/12/2024 14:30,AFAS Stadion,\\N,AZ Alkmaar,Heracles Almelo
+125,14,01/12/2024 14:30,De Grolsch Veste,\\N,FC Twente,Go Ahead Eagles
+122,14,01/12/2024 16:45,Goffertstadion,\\N,NEC Nijmegen,Ajax
+127,15,08/12/2024 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,NEC Nijmegen
+128,15,08/12/2024 01:00,Koning Willem II Stadion,\\N,Willem II,SC Heerenveen
+129,15,08/12/2024 01:00,AFAS Stadion,\\N,AZ Alkmaar,Ajax
+130,15,08/12/2024 01:00,Mandemakers Stadion,\\N,RKC Waalwijk,Feyenoord
+131,15,08/12/2024 01:00,Het Kasteel,\\N,Sparta Rotterdam,NAC Breda
+132,15,08/12/2024 01:00,Yanmar Stadion,\\N,Almere City FC,FC Utrecht
+133,15,08/12/2024 01:00,Erve Asito,\\N,Heracles Almelo,Fortuna Sittard
+134,15,08/12/2024 01:00,Philips Stadion,\\N,PSV Eindhoven,FC Twente
+135,15,08/12/2024 01:00,Euroborg,\\N,FC Groningen,PEC Zwolle
+136,16,15/12/2024 01:00,Goffertstadion,\\N,NEC Nijmegen,Sparta Rotterdam
+137,16,15/12/2024 01:00,Abe Lenstra Stadion,\\N,SC Heerenveen,PSV Eindhoven
+138,16,15/12/2024 01:00,Johan Cruyff Arena,\\N,Ajax,Almere City FC
+139,16,15/12/2024 01:00,De Kuip,\\N,Feyenoord,Heracles Almelo
+140,16,15/12/2024 01:00,De Grolsch Veste,\\N,FC Twente,FC Groningen
+141,16,15/12/2024 01:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,RKC Waalwijk
+142,16,15/12/2024 01:00,Rat Verlegh Stadion,\\N,NAC Breda,AZ Alkmaar
+143,16,15/12/2024 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,Willem II
+144,16,15/12/2024 01:00,Stadion Galgenwaard,\\N,FC Utrecht,Go Ahead Eagles
+145,17,22/12/2024 01:00,Philips Stadion,\\N,PSV Eindhoven,Feyenoord
+146,17,22/12/2024 01:00,AFAS Stadion,\\N,AZ Alkmaar,FC Twente
+147,17,22/12/2024 01:00,Mandemakers Stadion,\\N,RKC Waalwijk,PEC Zwolle
+148,17,22/12/2024 01:00,Erve Asito,\\N,Heracles Almelo,FC Groningen
+149,17,22/12/2024 01:00,Koning Willem II Stadion,\\N,Willem II,NEC Nijmegen
+150,17,22/12/2024 01:00,Het Kasteel,\\N,Sparta Rotterdam,Ajax
+151,17,22/12/2024 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,NAC Breda
+152,17,22/12/2024 01:00,Stadion Galgenwaard,\\N,FC Utrecht,Fortuna Sittard
+153,17,22/12/2024 01:00,Yanmar Stadion,\\N,Almere City FC,SC Heerenveen
+154,18,12/01/2025 01:00,Rat Verlegh Stadion,\\N,NAC Breda,SC Heerenveen
+155,18,12/01/2025 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,NEC Nijmegen
+156,18,12/01/2025 01:00,Philips Stadion,\\N,PSV Eindhoven,AZ Alkmaar
+157,18,12/01/2025 01:00,Euroborg,\\N,FC Groningen,Almere City FC
+158,18,12/01/2025 01:00,Johan Cruyff Arena,\\N,Ajax,RKC Waalwijk
+159,18,12/01/2025 01:00,Erve Asito,\\N,Heracles Almelo,Sparta Rotterdam
+160,18,12/01/2025 01:00,De Kuip,\\N,Feyenoord,FC Utrecht
+161,18,12/01/2025 01:00,De Grolsch Veste,\\N,FC Twente,Willem II
+162,18,12/01/2025 01:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,Go Ahead Eagles
+163,19,19/01/2025 01:00,Abe Lenstra Stadion,\\N,SC Heerenveen,Ajax
+164,19,19/01/2025 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,FC Groningen
+165,19,19/01/2025 01:00,Koning Willem II Stadion,\\N,Willem II,Feyenoord
+166,19,19/01/2025 01:00,Rat Verlegh Stadion,\\N,NAC Breda,FC Twente
+167,19,19/01/2025 01:00,Yanmar Stadion,\\N,Almere City FC,Heracles Almelo
+168,19,19/01/2025 01:00,Het Kasteel,\\N,Sparta Rotterdam,RKC Waalwijk
+169,19,19/01/2025 01:00,Stadion Galgenwaard,\\N,FC Utrecht,AZ Alkmaar
+170,19,19/01/2025 01:00,Goffertstadion,\\N,NEC Nijmegen,Fortuna Sittard
+171,19,19/01/2025 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,PSV Eindhoven
+172,20,26/01/2025 01:00,AFAS Stadion,\\N,AZ Alkmaar,Sparta Rotterdam
+173,20,26/01/2025 01:00,Erve Asito,\\N,Heracles Almelo,FC Utrecht
+174,20,26/01/2025 01:00,De Grolsch Veste,\\N,FC Twente,NEC Nijmegen
+175,20,26/01/2025 01:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,PEC Zwolle
+176,20,26/01/2025 01:00,Mandemakers Stadion,\\N,RKC Waalwijk,Willem II
+177,20,26/01/2025 01:00,De Kuip,\\N,Feyenoord,Almere City FC
+178,20,26/01/2025 01:00,Johan Cruyff Arena,\\N,Ajax,Go Ahead Eagles
+179,20,26/01/2025 01:00,Philips Stadion,\\N,PSV Eindhoven,NAC Breda
+180,20,26/01/2025 01:00,Euroborg,\\N,FC Groningen,SC Heerenveen
+181,21,02/02/2025 01:00,Het Kasteel,\\N,Sparta Rotterdam,FC Groningen
+182,21,02/02/2025 01:00,Rat Verlegh Stadion,\\N,NAC Breda,Heracles Almelo
+183,21,02/02/2025 01:00,Abe Lenstra Stadion,\\N,SC Heerenveen,Fortuna Sittard
+184,21,02/02/2025 01:00,Goffertstadion,\\N,NEC Nijmegen,PSV Eindhoven
+185,21,02/02/2025 01:00,Koning Willem II Stadion,\\N,Willem II,AZ Alkmaar
+186,21,02/02/2025 01:00,Johan Cruyff Arena,\\N,Ajax,Feyenoord
+187,21,02/02/2025 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,FC Utrecht
+188,21,02/02/2025 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,FC Twente
+189,21,02/02/2025 01:00,Yanmar Stadion,\\N,Almere City FC,RKC Waalwijk
+190,22,09/02/2025 01:00,Euroborg,\\N,FC Groningen,NEC Nijmegen
+191,22,09/02/2025 01:00,Abe Lenstra Stadion,\\N,SC Heerenveen,FC Twente
+192,22,09/02/2025 01:00,Mandemakers Stadion,\\N,RKC Waalwijk,NAC Breda
+193,22,09/02/2025 01:00,De Kuip,\\N,Feyenoord,Sparta Rotterdam
+194,22,09/02/2025 01:00,AFAS Stadion,\\N,AZ Alkmaar,PEC Zwolle
+195,22,09/02/2025 01:00,Philips Stadion,\\N,PSV Eindhoven,Willem II
+196,22,09/02/2025 01:00,Erve Asito,\\N,Heracles Almelo,Go Ahead Eagles
+197,22,09/02/2025 01:00,Stadion Galgenwaard,\\N,FC Utrecht,Almere City FC
+198,22,09/02/2025 01:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,Ajax
+199,23,16/02/2025 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,Sparta Rotterdam
+200,23,16/02/2025 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,SC Heerenveen
+201,23,16/02/2025 01:00,De Grolsch Veste,\\N,FC Twente,RKC Waalwijk
+202,23,16/02/2025 01:00,Goffertstadion,\\N,NEC Nijmegen,Almere City FC
+203,23,16/02/2025 01:00,Johan Cruyff Arena,\\N,Ajax,Heracles Almelo
+204,23,16/02/2025 01:00,Philips Stadion,\\N,PSV Eindhoven,FC Utrecht
+205,23,16/02/2025 01:00,AFAS Stadion,\\N,AZ Alkmaar,Fortuna Sittard
+206,23,16/02/2025 01:00,Koning Willem II Stadion,\\N,Willem II,FC Groningen
+207,23,16/02/2025 01:00,Rat Verlegh Stadion,\\N,NAC Breda,Feyenoord
+208,24,02/03/2025 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,PSV Eindhoven
+209,24,02/03/2025 01:00,Erve Asito,\\N,Heracles Almelo,PEC Zwolle
+210,24,02/03/2025 01:00,Het Kasteel,\\N,Sparta Rotterdam,Willem II
+211,24,02/03/2025 01:00,Euroborg,\\N,FC Groningen,FC Twente
+212,24,02/03/2025 01:00,Stadion Galgenwaard,\\N,FC Utrecht,NAC Breda
+213,24,02/03/2025 01:00,Yanmar Stadion,\\N,Almere City FC,Ajax
+214,24,02/03/2025 01:00,Abe Lenstra Stadion,\\N,SC Heerenveen,AZ Alkmaar
+215,24,02/03/2025 01:00,Mandemakers Stadion,\\N,RKC Waalwijk,Fortuna Sittard
+216,24,02/03/2025 01:00,De Kuip,\\N,Feyenoord,NEC Nijmegen
+217,25,09/03/2025 01:00,Goffertstadion,\\N,NEC Nijmegen,Go Ahead Eagles
+218,25,09/03/2025 01:00,Rat Verlegh Stadion,\\N,NAC Breda,Sparta Rotterdam
+219,25,09/03/2025 01:00,De Grolsch Veste,\\N,FC Twente,Almere City FC
+220,25,09/03/2025 01:00,Koning Willem II Stadion,\\N,Willem II,FC Utrecht
+221,25,09/03/2025 01:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,Heracles Almelo
+222,25,09/03/2025 01:00,Philips Stadion,\\N,PSV Eindhoven,SC Heerenveen
+223,25,09/03/2025 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,Ajax
+224,25,09/03/2025 01:00,AFAS Stadion,\\N,AZ Alkmaar,RKC Waalwijk
+225,25,09/03/2025 01:00,De Kuip,\\N,Feyenoord,FC Groningen
+226,26,16/03/2025 01:00,Abe Lenstra Stadion,\\N,SC Heerenveen,Heracles Almelo
+227,26,16/03/2025 01:00,Johan Cruyff Arena,\\N,Ajax,AZ Alkmaar
+228,26,16/03/2025 01:00,Stadion Galgenwaard,\\N,FC Utrecht,NEC Nijmegen
+229,26,16/03/2025 01:00,De Adelaarshorst,\\N,Go Ahead Eagles,Willem II
+230,26,16/03/2025 01:00,De Grolsch Veste,\\N,FC Twente,Feyenoord
+231,26,16/03/2025 01:00,Euroborg,\\N,FC Groningen,Fortuna Sittard
+232,26,16/03/2025 01:00,Yanmar Stadion,\\N,Almere City FC,NAC Breda
+233,26,16/03/2025 01:00,Het Kasteel,\\N,Sparta Rotterdam,PEC Zwolle
+234,26,16/03/2025 01:00,Mandemakers Stadion,\\N,RKC Waalwijk,PSV Eindhoven
+235,27,30/03/2025 01:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,Sparta Rotterdam
+236,27,30/03/2025 01:00,Rat Verlegh Stadion,\\N,NAC Breda,FC Groningen
+237,27,30/03/2025 01:00,Koning Willem II Stadion,\\N,Willem II,Almere City FC
+238,27,30/03/2025 01:00,De Kuip,\\N,Feyenoord,Go Ahead Eagles
+239,27,30/03/2025 01:00,Erve Asito,\\N,Heracles Almelo,FC Twente
+240,27,30/03/2025 01:00,Stadion Galgenwaard,\\N,FC Utrecht,SC Heerenveen
+241,27,30/03/2025 01:00,MAC³PARK Stadion,\\N,PEC Zwolle,RKC Waalwijk
+242,27,30/03/2025 01:00,Philips Stadion,\\N,PSV Eindhoven,Ajax
+243,27,30/03/2025 01:00,Goffertstadion,\\N,NEC Nijmegen,AZ Alkmaar
+244,28,06/04/2025 02:00,Abe Lenstra Stadion,\\N,SC Heerenveen,Willem II
+245,28,06/04/2025 02:00,Mandemakers Stadion,\\N,RKC Waalwijk,Heracles Almelo
+246,28,06/04/2025 02:00,Yanmar Stadion,\\N,Almere City FC,PEC Zwolle
+247,28,06/04/2025 02:00,Euroborg,\\N,FC Groningen,PSV Eindhoven
+248,28,06/04/2025 02:00,De Adelaarshorst,\\N,Go Ahead Eagles,FC Utrecht
+249,28,06/04/2025 02:00,De Grolsch Veste,\\N,FC Twente,Fortuna Sittard
+250,28,06/04/2025 02:00,Het Kasteel,\\N,Sparta Rotterdam,NEC Nijmegen
+251,28,06/04/2025 02:00,AFAS Stadion,\\N,AZ Alkmaar,Feyenoord
+252,28,06/04/2025 02:00,Johan Cruyff Arena,\\N,Ajax,NAC Breda
+253,29,13/04/2025 02:00,Koning Willem II Stadion,\\N,Willem II,Ajax
+254,29,13/04/2025 02:00,Rat Verlegh Stadion,\\N,NAC Breda,Go Ahead Eagles
+255,29,13/04/2025 02:00,Erve Asito,\\N,Heracles Almelo,AZ Alkmaar
+256,29,13/04/2025 02:00,Goffertstadion,\\N,NEC Nijmegen,RKC Waalwijk
+257,29,13/04/2025 02:00,MAC³PARK Stadion,\\N,PEC Zwolle,FC Twente
+258,29,13/04/2025 02:00,Het Kasteel,\\N,Sparta Rotterdam,SC Heerenveen
+259,29,13/04/2025 02:00,Philips Stadion,\\N,PSV Eindhoven,Almere City FC
+260,29,13/04/2025 02:00,Stadion Galgenwaard,\\N,FC Utrecht,FC Groningen
+261,29,13/04/2025 02:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,Feyenoord
+262,30,27/04/2025 02:00,Johan Cruyff Arena,\\N,Ajax,Sparta Rotterdam
+263,30,27/04/2025 02:00,Euroborg,\\N,FC Groningen,Heracles Almelo
+264,30,27/04/2025 02:00,Yanmar Stadion,\\N,Almere City FC,Go Ahead Eagles
+265,30,27/04/2025 02:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,Willem II
+266,30,27/04/2025 02:00,AFAS Stadion,\\N,AZ Alkmaar,NAC Breda
+267,30,27/04/2025 02:00,De Kuip,\\N,Feyenoord,PEC Zwolle
+268,30,27/04/2025 02:00,Mandemakers Stadion,\\N,RKC Waalwijk,FC Utrecht
+269,30,27/04/2025 02:00,De Grolsch Veste,\\N,FC Twente,PSV Eindhoven
+270,30,27/04/2025 02:00,Abe Lenstra Stadion,\\N,SC Heerenveen,NEC Nijmegen
+271,31,04/05/2025 02:00,De Adelaarshorst,\\N,Go Ahead Eagles,AZ Alkmaar
+272,31,04/05/2025 02:00,Erve Asito,\\N,Heracles Almelo,Feyenoord
+273,31,04/05/2025 02:00,Philips Stadion,\\N,PSV Eindhoven,Fortuna Sittard
+274,31,04/05/2025 02:00,Abe Lenstra Stadion,\\N,SC Heerenveen,Almere City FC
+275,31,04/05/2025 02:00,Goffertstadion,\\N,NEC Nijmegen,Willem II
+276,31,04/05/2025 02:00,Het Kasteel,\\N,Sparta Rotterdam,FC Twente
+277,31,04/05/2025 02:00,Stadion Galgenwaard,\\N,FC Utrecht,Ajax
+278,31,04/05/2025 02:00,Euroborg,\\N,FC Groningen,RKC Waalwijk
+279,31,04/05/2025 02:00,Rat Verlegh Stadion,\\N,NAC Breda,PEC Zwolle
+280,32,11/05/2025 02:00,MAC³PARK Stadion,\\N,PEC Zwolle,Go Ahead Eagles
+281,32,11/05/2025 02:00,De Kuip,\\N,Feyenoord,PSV Eindhoven
+282,32,11/05/2025 02:00,Koning Willem II Stadion,\\N,Willem II,Heracles Almelo
+283,32,11/05/2025 02:00,Mandemakers Stadion,\\N,RKC Waalwijk,SC Heerenveen
+284,32,11/05/2025 02:00,Fortuna Sittard Stadion,\\N,Fortuna Sittard,NAC Breda
+285,32,11/05/2025 02:00,De Grolsch Veste,\\N,FC Twente,FC Utrecht
+286,32,11/05/2025 02:00,Johan Cruyff Arena,\\N,Ajax,NEC Nijmegen
+287,32,11/05/2025 02:00,AFAS Stadion,\\N,AZ Alkmaar,FC Groningen
+288,32,11/05/2025 02:00,Yanmar Stadion,\\N,Almere City FC,Sparta Rotterdam
+289,33,14/05/2025 20:00,Yanmar Stadion,\\N,Almere City FC,Fortuna Sittard
+290,33,14/05/2025 20:00,De Grolsch Veste,\\N,FC Twente,AZ Alkmaar
+291,33,14/05/2025 20:00,Goffertstadion,\\N,NEC Nijmegen,NAC Breda
+292,33,14/05/2025 20:00,Euroborg,\\N,FC Groningen,Ajax
+293,33,14/05/2025 20:00,Philips Stadion,\\N,PSV Eindhoven,Heracles Almelo
+294,33,14/05/2025 20:00,De Kuip,\\N,Feyenoord,RKC Waalwijk
+295,33,14/05/2025 20:00,Koning Willem II Stadion,\\N,Willem II,PEC Zwolle
+296,33,14/05/2025 20:00,Stadion Galgenwaard,\\N,FC Utrecht,Sparta Rotterdam
+297,33,14/05/2025 20:00,De Adelaarshorst,\\N,Go Ahead Eagles,SC Heerenveen
+298,34,18/05/2025 14:30,MAC³PARK Stadion,\\N,PEC Zwolle,FC Groningen
+299,34,18/05/2025 14:30,Fortuna Sittard Stadion,\\N,Fortuna Sittard,FC Utrecht
+300,34,18/05/2025 14:30,Johan Cruyff Arena,\\N,Ajax,FC Twente
+301,34,18/05/2025 14:30,Het Kasteel,\\N,Sparta Rotterdam,PSV Eindhoven
+302,34,18/05/2025 14:30,Rat Verlegh Stadion,\\N,NAC Breda,Willem II
+303,34,18/05/2025 14:30,AFAS Stadion,\\N,AZ Alkmaar,Almere City FC
+304,34,18/05/2025 14:30,Erve Asito,\\N,Heracles Almelo,NEC Nijmegen
+305,34,18/05/2025 14:30,Mandemakers Stadion,\\N,RKC Waalwijk,Go Ahead Eagles
+306,34,18/05/2025 14:30,Abe Lenstra Stadion,\\N,SC Heerenveen,Feyenoord
