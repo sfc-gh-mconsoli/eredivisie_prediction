@@ -27,7 +27,7 @@ Thank you for your understanding!
 
 ### 1. Create DB Objects via Setup Script
 
-Run the `setup.sql` script to create db objects and external access integration.
+Run the `setup.sql` script to create database objects and external access integration. NOTE: If you are using a trial account, you'll need to execute the `setup_trial.sql` (see later sections for detail).
 
 - **Database**: `EREDIVISIE_PREDICTION`
 - **Warehouse**: `EREDIVISIE_PREDICTION_WH`
@@ -35,17 +35,19 @@ Run the `setup.sql` script to create db objects and external access integration.
 - **External Access Integration**: `GITHUB_EXTERNAL_ACCESS_INTEGRATION`
 
 The first three items are required as you will need to define the Database, Schema, and Warehouse when you import this notebook into the Snowflake UI.
-NOTE: If you are using a trial account, you'll need to execute the `setup_trial.sql`. After creating DB objects (including an internal stage) you'll be asked to upload the dataset manually in the stage and continue the script execution to import dataset into tables. 
+
+NOTE: If you are using a trial account, you'll need to execute the `setup_trial.sql`. After creating the database objects (including an internal stage) you'll be asked to upload the dataset manually in the stage and continue the script execution to import dataset into tables. 
 Data loading is performed via external access integration on non-trial accounts (the external integration feature is disabled on trial accounts).
 
 
 ### 2. Import Notebooks
 
 Before importing notebooks, ensure that you have created the objects by running the `setup.sql` or `setup_trial.sql` script.
-Once the step 1 is completed you can proceed importing the 4 notebooks in the `notebooks` folder in this repo.
+Once the step 1 is completed, you can import the 4 notebooks in the `notebooks` folder in this repo.
+
 You can import them following these steps:
 
-- Click on Projects -> Notebooks -> Arrow Down -> Import .ipynb file
+- Click on Projects &#8594; Notebooks &#8594; Arrow Down &#8594; Import .ipynb file
 - Import Notebooks one by one selecting the DB.SCHEMA `EREDIVISIE_PREDICTION.PUBLIC`, and Virtual Warehouse `EREDIVISIE_PREDICTION_WH`
 - On each notebook, you'll find a `Setup` markdown that might require to import specific packages on each notebooks.
 
