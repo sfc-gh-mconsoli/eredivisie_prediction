@@ -1,14 +1,3 @@
-## **SWT - Amsterdam - 03 October 2024**
-
-⚠️ **We kindly recommend running Pre-Reqs after 29th September 2024, when the final version will be released on this repo.** ⚠️
-
-We are just running some final checks before the HoL session. 
-More information will be provided in this `README.md` file once the **final** notebooks and datasets are uploaded to the GitHub repository.
-
-Thank you for your understanding!
-
----
-
 # ⚽ **HOL: Eredivisie Prediction** 🥇
 
 <p align="center">
