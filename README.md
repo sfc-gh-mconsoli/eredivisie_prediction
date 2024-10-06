@@ -14,6 +14,9 @@
 
 ## Pre-Reqs
 
+The `ACCOUNTADMIN` role is required for this demo. If using a different role, ensure the appropriate privileges are granted. 
+While a AWS US region account is preferred (for executing Cortex LLM requests in the final notebook), it is not mandatory.
+
 ### 1. Create DB Objects via Setup Script
 
 Run the `setup.sql` script to create database objects and external access integration. NOTE: If you are using a trial account, you'll need to execute the `setup_trial.sql` (see later sections for detail).
